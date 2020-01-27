@@ -1,0 +1,51 @@
+/*
+Creator: Christopher R Ference
+Date created: 01/16/2020
+Date last modified:01/25/2020
+*/
+
+.jumbotron, footer {
+	background: #b30000
+	
+}
+header, footer {
+	font-family: 'Bangers', cursive;
+}
+body {
+	background: bisque
+}
+
+nav {
+	border-top: 3px solid #000;
+	border-bottom: 3px solid #000;
+	padding-top: 12px;
+    padding-bottom: 12px;
+}
+nav a {
+	background-color: #b30000;
+	border: none;
+	color: #fef9ff;
+	padding: 8px;
+	border-radius: 16px;
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	margin: 20px;
+	width: auto;
+}
+
+a:hover {
+		background-color: #000;
+		color: #5b7d87;
+		font-weight: bold;
+}
+a:link {
+	color: #e4c3ad;
+	
+}
+a:visited {
+	color: blue;
+}
+.btn {
+	font-size: 25px;
+}
